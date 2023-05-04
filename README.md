@@ -2,13 +2,13 @@
 # Hey Everyone! I'm [md arif](https://github.com/mohammeddarif) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 
-<a href="https://www.linkedin.com/in/kiran-sagar-a00a761b2/">
+<a href="https://www.linkedin.com/in/md-arif-610a96270/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/mohammeddarif">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/pythonlifetelugu/?hl=en">
+<a href="https://www.instagram.com/mdarif06_/">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -16,16 +16,12 @@
 <br><br>
 
 
-## <p align="center"><h4 align="center"><samp> An Python Developer, An Open Source Contributor, Youtuber  & A Competitive Programmer, online Trainer </samp></h4></p>
-
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
   
-- 🔭 I’m currently working on PythonLife
-- 🌱 I’m currently learning Artificial Intelligence
-- 👯 I’m looking to collaborate on Youtube
-- 💬 Ask me about Computer Vision
+- 🌱 I  learn Python , Mysql , sql, Django , PowerBi
+- 👯 I’m looking to python mysql sql job
 - 📫 How to reach me: mdarif16417@gmail.com
   <br>
 </div>
